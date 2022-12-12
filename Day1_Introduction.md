@@ -16,7 +16,7 @@
       computer, web application, or network and reports them
       to the organization
       ➔ The person who do the hacking is called “HACKER”
-               #**Why do we learn hacking??**
+               **Why do we learn hacking??**
        1. To prevent hackers from gaining access
        2. To uncover vulnerabilities
        3. To strengthen the organization
