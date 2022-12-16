@@ -7,4 +7,8 @@
 ### 1) Information gathering
 ![Linux For User - Google Chrome 12_16_2022 10_44_21 AM (2)](https://user-images.githubusercontent.com/115867551/208167526-0e4075e0-1723-4839-abbf-6b85df5959ba.png)
 >  Tools for information gathering, in system, network, host and the process of collecting information about Target.
-### 2)
+### 2) Vulnerability Analysis
+![Linux For User - Google Chrome 12_16_2022 10_47_52 AM (2)](https://user-images.githubusercontent.com/115867551/208168484-b491403b-0bfc-4832-bac9-42a7cb89339a.png)
+> Is Tools for Finding Vulnerabilities in website , application softtware , games, etc
+### 3) Web Application Analysis
+![Linux For User - Google Chrome 12_16_2022 10_47_57 AM (2)](https://user-images.githubusercontent.com/115867551/208169329-178d73d0-57d7-4f3b-a814-b4e22d091e8d.png)
