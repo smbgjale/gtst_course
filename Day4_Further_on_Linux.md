@@ -1,4 +1,4 @@
-   FURTHER FOR LINUX 
+ # FURTHER FOR LINUX 
   Linux File Hierarchy
    linux have special file system than window
    file system is a directory structure that the os uses 
@@ -8,7 +8,7 @@
 
                 FILE STRUCTURE IN DETAIL
    1 root(/)
-      * Every single file and dictory starts from the root directory
+      *Every single file and dictory starts from the root directory
       *Only root user has the right to write under this directory 
       */root is the user home dirctory.Which is not the same as
    2 bin-Binary executables
