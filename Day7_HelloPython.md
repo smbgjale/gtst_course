@@ -70,13 +70,13 @@ of the computer.
 > Python is a High level & interpreted programming language. => Very easy to learn
 >It is Very SImplified language any one can write with it, also can read it.
 ## Uses of Python
-> ● Data visualization
-> ● Data analysis
-> ● Machine learning
-> ● Artificial intelligence
-> ● Back-end web development (with frameworks like Django and Flask)
-> ● Game development
-> ● Hacking Script writing
+>  Data visualization
+>  Data analysis
+>  Machine learning
+>  Artificial intelligence
+>  Back-end web development (with frameworks like Django and Flask)
+>  Game development
+>  Hacking Script writing
 ## Outputs and Comments
 > On python, to display output we use keyword ‘print’
 > Syntax: print(object=’’, sep=’’, end=’’)
